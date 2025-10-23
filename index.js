@@ -3,7 +3,7 @@ const metadata = {
     name: "SolCoin",
     symbol: "SOL",
     network: "Solana",
-    contractAddress: "",
+    contractAddress: "GMvCfcZg8YvkkQmwDaAzCtHDrrEtgE74nQpQ7xNabonk",
     totalSupply: "1000000000",
     currentPrice: "0.045",
     version: "1.0.0",
